@@ -1,6 +1,5 @@
 ---
 title: Enhancement 1
-layout: template
 filename: enhancement1.md
 ---
 
