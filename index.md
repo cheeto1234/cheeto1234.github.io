@@ -1,8 +1,8 @@
 # Kuerth Cashen ePortfolio
 - [Code Review](https://youtu.be/JGmyGTJntfs)
-- [Enhancement 1]()
-- [Enhancement 2]()
-- [Enhancement 3]()
+- [Enhancement 1](https://cheeto1234.github.io/enhancement1)
+- [Enhancement 2](https://cheeto1234.github.io/enhancement2)
+- [Enhancement 3](https://cheeto1234.github.io/enhancement3)
 
 ## Professional self-assessment
 
@@ -63,3 +63,7 @@ Next, for my second artifact I have created an encrypted data storage app in jav
 Finally, for my last artifact I have made a REST API in Node.js as a means to expand a simple CRUD module I wrote in python as part of my CS-340 course. I added the functionality for the program to receive requests, preform all standard CRUD operations, dynamically interface with any running instance of MongoDB, and even run on a server if configured properly. It utilizes Express for the server and Mongoose for data manipulation.
 
 Here are the links to each artifact:
+
+- [Enhancement 1](https://cheeto1234.github.io/enhancement1)
+- [Enhancement 2](https://cheeto1234.github.io/enhancement2)
+- [Enhancement 3](https://cheeto1234.github.io/enhancement3)
